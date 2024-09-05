@@ -51,7 +51,7 @@
     "jszip": "^3.10.1",
     "mkdir-recursive": "^0.4.0",
     "moment": "^2.29.4",
-    "mqtt": "^5.2.2",
+    "mqtt": "^5.7.2",
     "object-assign-deep": "^0.4.0",
     "rimraf": "^5.0.5",
     "semver": "^7.5.4",
@@ -62,7 +62,7 @@
     "winston-transport": "^4.6.0",
     "ws": "^8.14.2",
     "zigbee-herdsman": "0.25.0",
-    "zigbee-herdsman-converters": "15.130.1",
+    "zigbee-herdsman-converters": "20.3.0",
     "zigbee2mqtt-frontend": "0.6.147"
   },
   "devDependencies": {
