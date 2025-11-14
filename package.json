@@ -46,7 +46,7 @@
     "finalhandler": "^1.2.0",
     "git-last-commit": "^1.0.1",
     "humanize-duration": "^3.31.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "json-stable-stringify-without-jsonify": "^1.0.1",
     "jszip": "^3.10.1",
     "mkdir-recursive": "^0.4.0",
