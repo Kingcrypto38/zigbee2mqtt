@@ -53,7 +53,7 @@
     "moment": "^2.29.4",
     "mqtt": "^5.2.2",
     "object-assign-deep": "^0.4.0",
-    "rimraf": "^5.0.5",
+    "rimraf": "^6.1.1",
     "semver": "^7.5.4",
     "source-map-support": "^0.5.21",
     "uri-js": "^4.4.1",
